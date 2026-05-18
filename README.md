@@ -7,4 +7,6 @@ Hafta-1 Ödev1:[Öğrenci Kayıt Sistemi](https://colab.research.google.com/driv
 
 Hafta-2 Kod1:[Python Temelleri Devam](https://colab.research.google.com/drive/10Zeihg0UAvEF-hrw4__-L32IR4cJqk8L?usp=sharing)
 
+Hafta-2 Ders-2 Kod-1:[Python Temel Devam-2] (https://colab.research.google.com/drive/18XJQL_by7qX0fiT2i0Vjx4U2cNaj5s8-?usp=sharing)
+
 
