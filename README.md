@@ -15,5 +15,7 @@ Hafta-3 Ders-1:[Numpy-Pandas](https://colab.research.google.com/drive/1aqCiUVKUB
 
 Hafta-3 Ders-2:[Pandas Devam](https://colab.research.google.com/drive/1KDFrwtIpWJZZZvHo1NBKI-kPsNk6f3Cm?usp=sharing)
 
-Hafta-3 Ders-2 NB-2:[Tips Veri Seti devam](https://colab.research.google.com/drive/17kOvxaVNhAx9igabEIVDdnMd3N_SRJyN?usp=sharing)
+Hafta-4 Ders-1 NB-2:[Tips Veri Seti devam](https://colab.research.google.com/drive/17kOvxaVNhAx9igabEIVDdnMd3N_SRJyN?usp=sharing)
+
+Hafta-5 Ders-1: [Titanic](https://www.kaggle.com/code/zeynepyilmaz34/titanic-veri-analizi).
 
