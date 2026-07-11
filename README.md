@@ -19,3 +19,5 @@ Hafta-4 Ders-1 NB-2:[Tips Veri Seti devam](https://colab.research.google.com/dri
 
 Hafta-5 Ders-1: [Titanic](https://www.kaggle.com/code/zeynepyilmaz34/titanic-veri-analizi)
 
+Hafta-5 Ders-2: [TM Model Oluşturma ve Deploy](https://colab.research.google.com/drive/1IHVc1P_dUa2vp4LiI2nFiI6bvIQ7uSVX?usp=sharing)
+
