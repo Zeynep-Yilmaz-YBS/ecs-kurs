@@ -24,3 +24,5 @@ Hafta-5 Ders-2: [TM Model Oluşturma ve Deploy](https://colab.research.google.co
 Hafta Ders-2: [Telafi Dersi](https://www.kaggle.com/code/zeynepyilmaz34/titanic-veri-analizi)
 
 Hafta-6 Ders-1: [Titanic Yarışması Skor](https://www.kaggle.com/code/zeynepyilmaz34/titanic-veri-analizi)
+
+Hafta-6 Ders-2: [İkinci El Araç Fiyat Tahmin](https://colab.research.google.com/drive/1IIRaCZeBI6Sr_j-_KJJm3D-UAbad1XL5?usp=sharing)
