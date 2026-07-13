@@ -26,3 +26,5 @@ Hafta Ders-2: [Telafi Dersi](https://www.kaggle.com/code/zeynepyilmaz34/titanic-
 Hafta-6 Ders-1: [Titanic Yarışması Skor](https://www.kaggle.com/code/zeynepyilmaz34/titanic-veri-analizi)
 
 Hafta-6 Ders-2: [İkinci El Araç Fiyat Tahmin](https://colab.research.google.com/drive/1IIRaCZeBI6Sr_j-_KJJm3D-UAbad1XL5?usp=sharing)
+
+Hafta-7 Ders-1: [İkinci El Araç Tahmin Model Dosyası](
