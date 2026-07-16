@@ -29,6 +29,6 @@ Hafta-6 Ders-2: [İkinci El Araç Fiyat Tahmin](https://colab.research.google.co
 
 Hafta-7 Ders-1: [İkinci El Araç Tahmin Model Dosyası](https://github.com/Zeynep-Yilmaz-YBS/ecs-kurs/blob/main/model/car_pipe.pkl)
 
-Hafta-7 Ders-2: 
+Hafta-7 Ders-2: [Gradio ile Basit Form Oluşturma & Google AGY](https://colab.research.google.com/drive/1nAfFvdC6lI3bh5z8pDNdqfAjrlB6fUGl?usp=sharing)
 
 [Örnek Data](https://github.com/Zeynep-Yilmaz-YBS/ecs-kurs/raw/main/form.csv)
