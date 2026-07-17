@@ -37,3 +37,5 @@ Hafta-7 Ders-2: [Gradio ile Basit Form Oluşturma & Google AGY](https://colab.re
 
 
 Hafta-7 Ders 3: [Covid-Yarışan Grafikler](https://colab.research.google.com/drive/19S3rQo3Cuo6CZMtdJLRq9nuVBKHe15W2?usp=sharing)
+
+Hafta-7 Ders-3 NB-2:[Farklı Platformlardan Veri Çekmek](https://colab.research.google.com/drive/1mKMgYOzL-ieJvR5DYyfRB-JjF7e-qsFA?usp=sharing)
