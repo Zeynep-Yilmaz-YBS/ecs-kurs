@@ -42,3 +42,5 @@ Hafta-7 Ders-3 NB-2:[Farklı Platformlardan Veri Çekmek](https://colab.research
 Hafta-7 Ders-3 NB-3:[Bing Arama Motoru ile Görsel İndirmek](https://colab.research.google.com/drive/1jnV0JFX9gFqohdlR3tHvTB6MpCf20MPs?usp=sharing)
 
 Hafta-8 Ders-1: [Topluluk Öğrenme Modelleri](https://colab.research.google.com/drive/1WNBWnmz74E7pI_i4dsxpC-gIrBQ5QKMm?usp=sharing)
+
+Hafta-8 Ders-2: [Adidas Zaman Serisi Analizi](https://colab.research.google.com/drive/1dKY9KkrjxNKDP19chEIeIbJ6J6c1KAjD?usp=sharing)
