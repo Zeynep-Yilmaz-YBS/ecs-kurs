@@ -40,3 +40,5 @@ Hafta-7 Ders 3: [Covid-Yarışan Grafikler](https://colab.research.google.com/dr
 Hafta-7 Ders-3 NB-2:[Farklı Platformlardan Veri Çekmek](https://colab.research.google.com/drive/1mKMgYOzL-ieJvR5DYyfRB-JjF7e-qsFA?usp=sharing)
 
 Hafta-7 Ders-3 NB-3:[Bing Arama Motoru ile Görsel İndirmek](https://colab.research.google.com/drive/1jnV0JFX9gFqohdlR3tHvTB6MpCf20MPs?usp=sharing)
+
+Hafta-8 Ders-1: [Topluluk Öğrenme Modelleri](https://colab.research.google.com/drive/1WNBWnmz74E7pI_i4dsxpC-gIrBQ5QKMm?usp=sharing)
